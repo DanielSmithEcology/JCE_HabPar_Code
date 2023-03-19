@@ -41,8 +41,8 @@ Contents / summary:
 - "Appendix_Box_Plot.R" 
 	- Will reproduce Fig. S1 from the SI Appendix
 
-- "Appendix_InvasionApprox.R"
-	- Will reproduce Figs. S2 and S3 from the SI Appendix 
+- "Appendix_InvasionApprox_S2.R" and "Appendix_InvasionApprox_S3.R"
+	- Will reproduce Figs. S2 and S3 from the SI Appendix, respectively 
 	- "CSV_Files" must be set as the working directory
 	- Code will load all of the SEM simulations and then calculate the invader metric
 	- The code will run both the exact value (as described in the SI Appendix) and Approximation
